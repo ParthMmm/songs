@@ -1,2 +1,2 @@
-# songs
-Modern React with Redux
+# Songs
+- Intro to Redux
